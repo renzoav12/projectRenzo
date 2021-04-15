@@ -1,4 +1,4 @@
-package com.example.demo.model;
+package com.lickvalue.change.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

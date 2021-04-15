@@ -1,4 +1,4 @@
-package com.example.demo.model;
+package com.lickvalue.change.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;

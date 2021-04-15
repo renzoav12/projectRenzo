@@ -1,9 +1,9 @@
-package com.example.demo;
+package com.lickvalue.change;
 
-import com.example.demo.model.Coin;
-import com.example.demo.model.Data;
-import com.example.demo.model.Pair;
-import com.example.demo.model.VarPair;
+import com.lickvalue.change.model.Coin;
+import com.lickvalue.change.model.Data;
+import com.lickvalue.change.model.Pair;
+import com.lickvalue.change.model.VarPair;
 import com.google.gson.Gson;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
