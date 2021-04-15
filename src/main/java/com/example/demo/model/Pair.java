@@ -1,4 +1,9 @@
 package com.example.demo.model;
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.Setter;
+
 /**
  * symbol: "IOTA",
  * total_events: 153,
@@ -7,6 +12,8 @@ package com.example.demo.model;
  * average_amount: "673.6673202614379085"
  * },
  */
+@Getter
+@Setter
 public class Pair {
 
     private  String symbol;
@@ -14,25 +21,4 @@ public class Pair {
     private  String average_amount;
     private  Integer total_events;
     private  Double total_usdt;
-
-
-    public String getSymbol() {
-        return symbol;
-    }
-
-    public Double getAverage_usdt() {
-        return average_usdt;
-    }
-
-    public String getAverage_amount() {
-        return average_amount;
-    }
-
-    public Integer getTotal_events() {
-        return total_events;
-    }
-
-    public Double getTotal_usdt() {
-        return total_usdt;
-    }
 }

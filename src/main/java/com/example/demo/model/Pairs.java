@@ -1,20 +1,14 @@
 package com.example.demo.model;
 
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.Setter;
+
 import java.util.List;
 
+@Getter
+@Setter
+@AllArgsConstructor
 public class Pairs {
-
     private List<Coin> coins;
-
-    public Pairs(List<Coin> coins) {
-        this.coins = coins;
-    }
-
-    public List<Coin> getCoinsList() {
-        return coins;
-    }
-
-    public void setCoinsList(List<Coin> coins) {
-        this.coins = coins;
-    }
 }
