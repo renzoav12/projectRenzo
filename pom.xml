@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
-	<version>0.0.2</version>
-	<name>demo</name>
+	<artifactId>set-lick-value</artifactId>
+	<version>0.0.1</version>
+	<name>set-lick-value</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
