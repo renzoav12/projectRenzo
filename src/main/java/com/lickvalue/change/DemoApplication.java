@@ -27,7 +27,7 @@ public class DemoApplication {
 		String percentage = args[0]; // Add params to increment value percentage
 
 		System.out.println("========================================");
-		System.out.println("Init Updating LickValue Pairs ");
+		System.out.println("Init Updating LickValue Pairs with params : " + percentage);
 
 		getVarPairJson(percentage);
 
