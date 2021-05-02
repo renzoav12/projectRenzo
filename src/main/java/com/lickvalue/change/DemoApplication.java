@@ -23,10 +23,13 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
+
+		String percentage = args[0]; // Add params to increment value percentage
+
 		System.out.println("========================================");
 		System.out.println("Init Updating LickValue Pairs ");
 
-		getVarPairJson();
+		getVarPairJson(percentage);
 
 		System.out.println("======FINISH PAIRS VALUE UPDATE========");
 	}
@@ -38,7 +41,7 @@ public class DemoApplication {
 	}
 
 
-	private static VarPair getVarPairJson () {
+	private static VarPair getVarPairJson (String percentage) {
 		Gson g = new Gson();
 		VarPair varPair = null;
 		try {
@@ -55,7 +58,7 @@ public class DemoApplication {
 
 			varPair = g.fromJson(reader , VarPair.class);
 
-			List<Coin> changeCoins = changeCoins(varPair.getCoins(), convertPairsToMap);
+			List<Coin> changeCoins = changeCoins(varPair.getCoins(), convertPairsToMap, percentage);
 
 			varPair.setCoins(changeCoins);
 
@@ -81,11 +84,13 @@ public class DemoApplication {
 	}
 
 
-	private static List<Coin> changeCoins(List<Coin> coins, Map<String, Pair> convertPairsToMap) {
+	private static List<Coin> changeCoins(List<Coin> coins, Map<String, Pair> convertPairsToMap,
+										  String percentage) {
 		return coins.stream().map( coin -> {
 			Pair pair = convertPairsToMap.get(coin.getSymbol());
 			if (pair != null) {
-				String lickValue = String.valueOf((int)Math.round(pair.getAverage_usdt()));
+				Double addPercentage = pair.getAverage_usdt() * Integer.valueOf(percentage) / 100;
+				String lickValue = String.valueOf((int)Math.round(pair.getAverage_usdt() + addPercentage ));
 				return new Coin(
 						coin.getSymbol(),
 						coin.getLongoffset(),
