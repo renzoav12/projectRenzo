@@ -24,12 +24,16 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 
-		String percentage = args[0]; // Add params to increment value percentage
+		String setLong = args[0];
+		String setShort = args[1];
+		String percentage = args[2]; // Add params to increment value percentage
 
 		System.out.println("========================================");
 		System.out.println("Init Updating LickValue Pairs with params : " + percentage);
+		System.out.println(" Set Short & Long values with this values, long -> "
+				+ setLong + " and short -> " + setShort);
 
-		getVarPairJson(percentage);
+		getVarPairJson(percentage, setLong, setShort);
 
 		System.out.println("======FINISH PAIRS VALUE UPDATE========");
 	}
@@ -41,7 +45,7 @@ public class DemoApplication {
 	}
 
 
-	private static VarPair getVarPairJson (String percentage) {
+	private static VarPair getVarPairJson (String percentage, String setLong, String setShort) {
 		Gson g = new Gson();
 		VarPair varPair = null;
 		try {
@@ -58,7 +62,8 @@ public class DemoApplication {
 
 			varPair = g.fromJson(reader , VarPair.class);
 
-			List<Coin> changeCoins = changeCoins(varPair.getCoins(), convertPairsToMap, percentage);
+			List<Coin> changeCoins = changeCoins(varPair.getCoins(), convertPairsToMap,
+					percentage, setLong, setShort);
 
 			varPair.setCoins(changeCoins);
 
@@ -85,7 +90,7 @@ public class DemoApplication {
 
 
 	private static List<Coin> changeCoins(List<Coin> coins, Map<String, Pair> convertPairsToMap,
-										  String percentage) {
+										  String percentage, String setLong, String setShort) {
 		return coins.stream().map( coin -> {
 			Pair pair = convertPairsToMap.get(coin.getSymbol());
 			if (pair != null) {
@@ -93,8 +98,8 @@ public class DemoApplication {
 				String lickValue = String.valueOf((int)Math.round(pair.getAverage_usdt() + addPercentage ));
 				return new Coin(
 						coin.getSymbol(),
-						coin.getLongoffset(),
-						coin.getShortoffset(),
+						setLong,
+						setShort,
 						lickValue,
 						coin.getVar_enabled(),
 						coin.getVar_staticList(),
