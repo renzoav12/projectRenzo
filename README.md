@@ -1,4 +1,4 @@
-# projectRenzo
+# SET lick values & VWAP by params
 
 CryptoCoins values :
 
