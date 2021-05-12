@@ -4,19 +4,6 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
 
-/**
- "symbol":  "1INCH",
- "longoffset":  "6.5",
- "shortoffset":  "6.5",
- "lickvalue":  "1019",
- "var_enabled":  true,
- "var_staticList":  true,
- "var_whiteList":  true,
- "var_blackList":  false,
- "tmp_kline_age":  "",
- "tmp_color":  "Black"
- */
-
 @Getter
 @Setter
 @AllArgsConstructor
