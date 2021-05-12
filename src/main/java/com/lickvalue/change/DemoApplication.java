@@ -56,7 +56,7 @@ public class DemoApplication {
 		Gson g = new Gson();
 		VarPair varPair = null;
 		try {
-			File file = new File("varPairs2.json");
+			File file = new File("varPairs.json");
 
 			List<Pair> pairs = getDataAPI();
 

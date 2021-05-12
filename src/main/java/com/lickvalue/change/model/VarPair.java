@@ -17,7 +17,7 @@ public class VarPair {
     private String openOrderIsolationPercentage;
     private String tradingMode;
     private String tradePairs;
-    private String fundingRateThreshold;
+    private Boolean fundingRateThreshold;
     private String maxFundingRate;
     private String tradingAge;
     private String marginType;
