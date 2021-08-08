@@ -5,6 +5,7 @@ import com.lickvalue.change.model.Data;
 import com.lickvalue.change.model.Pair;
 import com.lickvalue.change.model.VarPair;
 import com.google.gson.Gson;
+import lombok.SneakyThrows;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.client.RestTemplate;
@@ -25,21 +26,21 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 
-		String setLong = args[0];
-		String setShort = args[1];
-		String percentage = args[2]; // Add params to increment value percentage
-		String exceptCoins = args[3];
-		String[] splitCoins = exceptCoins.split(",");
-		List<String> except = Arrays.stream(splitCoins).collect(Collectors.toList());
+		// setLong=2 setShort=3 percentage=250  incOffset=2  decOffset=3
+
+		String setLong = args[0].split("=")[1];
+
+		String setShort = args[1].split("=")[1];
+		String percentage = args[2].split("=")[1];
+		String incOffset = args[3].split("=")[1];
+		String decOffset = args[4].split("=")[1];
 
 		System.out.println("========================================");
-		System.out.println(" Updating LickValue Pairs more percentage plus : " + percentage);
-		System.out.println(" Set Short & Long values with this values, long -> "
-				+ setLong + " and short -> " + setShort);
-		System.out.println(" set vwap Except this coins: " );
-		except.forEach(System.out::println);
+		System.out.println(" Updating LickValue Pairs more percentage plus : " + percentage + "%");
 
-		getVarPairJson(percentage, setLong, setShort, except);
+		System.out.println(" Set Short & Long::: long -> " + setLong + " and short -> " + setShort);
+		System.out.println("Increment or Decrement value: inc ->" + incOffset + " dec -> " + decOffset);
+		getVarPairJson(percentage, setLong, setShort, incOffset, decOffset);
 
 		System.out.println("======FINISH PAIRS VALUE UPDATE========");
 	}
@@ -52,7 +53,7 @@ public class DemoApplication {
 
 
 	private static VarPair getVarPairJson (String percentage, String setLong,
-										   String setShort, List<String> except) {
+										   String setShort, String incOffset, String decOffset) {
 		Gson g = new Gson();
 		VarPair varPair = null;
 		try {
@@ -70,7 +71,7 @@ public class DemoApplication {
 			varPair = g.fromJson(reader , VarPair.class);
 
 			List<Coin> changeCoins = changeCoins(varPair.getCoins(), convertPairsToMap,
-					percentage, setLong, setShort, except);
+					percentage, setLong, setShort, incOffset, decOffset);
 
 			varPair.setCoins(changeCoins);
 
@@ -98,16 +99,20 @@ public class DemoApplication {
 
 	private static List<Coin> changeCoins(List<Coin> coins, Map<String, Pair> convertPairsToMap,
 										  String percentage, String setLong, String setShort,
-										  List<String> except) {
+										  String incOffset, String decOffset) {
+
 		return coins.stream().map( coin -> {
 			Pair pair = convertPairsToMap.get(coin.getSymbol());
 			if (pair != null) {
 				Double addPercentage = pair.getAverage_usdt() * Integer.valueOf(percentage) / 100;
 				String lickValue = String.valueOf((int)Math.round(pair.getAverage_usdt() + addPercentage ));
+				System.out.println("Coin :: " + coin.getSymbol()
+						+ " -> actual lickvalue (" + pair.getAverage_usdt()
+						+ ")" + " -> new LickValue with increment percentage of " + percentage + "% -> (" + lickValue + ")");
 				return new Coin(
 						coin.getSymbol(),
-						setLongMethod(coin.getSymbol(), except, coin.getLongoffset(), setLong),
-						setShortMethod(coin.getSymbol(), except, coin.getShortoffset(), setShort),
+						setOffset(coin.getLongoffset(), setLong, incOffset, decOffset),
+						setOffset(coin.getShortoffset(), setShort, incOffset, decOffset ),
 						lickValue,
 						coin.getVar_enabled(),
 						coin.getVar_staticList(),
@@ -121,19 +126,20 @@ public class DemoApplication {
 		}).collect(Collectors.toList());
 	}
 
-	private static String setLongMethod(String symbol, List<String> except, String longOld,
-						   String longNew) {
-		if (except.contains(symbol)) {
-			return longOld;
-		}
-		return longNew;
-	}
+	private static String setOffset(final String valueOld, final String valueNew,
+										final String incOffset, final String decOffset) {
 
-	private static String setShortMethod(String symbol, List<String> except, String shortOld,
-										String shortNew) {
-		if (except.contains(symbol)) {
-			return shortOld;
+		if (incOffset.equals("0") && decOffset.equals("0")) {
+			if (valueNew.equals(0)){
+				return valueOld;
+			}else{
+				return valueNew;
+			}
+		} else {
+			if (incOffset.equals("0")) {
+				return String.valueOf(Long.valueOf(valueOld) - Long.valueOf(decOffset));
+			}
+				return String.valueOf(Long.valueOf(valueOld) + Long.valueOf(incOffset));
 		}
-		return shortNew;
 	}
 }
