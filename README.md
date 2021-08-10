@@ -2,9 +2,11 @@
 
 CryptoCoins values :
 
-PROJECT to SET LICK VALUES. 
+PROJECT to SET LICK VALUES.
 
-add 3 params :
+(when the params value is 0. this value no set)
+
+add 5 params :
 
 1 -> SET LONG PARAM
 
@@ -12,9 +14,12 @@ add 3 params :
 
 3 -> PLUS PERCENTAGE TO VLICK VALUE
 
-4 -> LIST OF COINS THAT NO CHANGE VWAP(LONG & SHORT)
+4 -> INC OFFSET 
+
+5 -> DEC OFFSET
 
 ## Example;
-           - 7  7  10  MKR,SRM,INJ
-            
+           - setLong=0 setShort=0 percentage=250  incOffset=0  decOffset=1
+           
+           incr 250% percentage, decrement in 1 offset values. 
 
