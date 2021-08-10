@@ -28,19 +28,14 @@ public class DemoApplication {
 
 		// setLong=2 setShort=3 percentage=250  incOffset=2  decOffset=3
 
-		String setLong = args[0].split("=")[1];
-
-		String setShort = args[1].split("=")[1];
 		String percentage = args[2].split("=")[1];
 		String incOffset = args[3].split("=")[1];
 		String decOffset = args[4].split("=")[1];
 
 		System.out.println("========================================");
 		System.out.println(" Updating LickValue Pairs more percentage plus : " + percentage + "%");
-
-		System.out.println(" Set Short & Long::: long -> " + setLong + " and short -> " + setShort);
 		System.out.println("Increment or Decrement value: inc ->" + incOffset + " dec -> " + decOffset);
-		getVarPairJson(percentage, setLong, setShort, incOffset, decOffset);
+		getVarPairJson(percentage, incOffset, decOffset);
 
 		System.out.println("======FINISH PAIRS VALUE UPDATE========");
 	}
@@ -52,8 +47,7 @@ public class DemoApplication {
 	}
 
 
-	private static VarPair getVarPairJson (String percentage, String setLong,
-										   String setShort, String incOffset, String decOffset) {
+	private static VarPair getVarPairJson (String percentage, String incOffset, String decOffset) {
 		Gson g = new Gson();
 		VarPair varPair = null;
 		try {
@@ -70,8 +64,7 @@ public class DemoApplication {
 
 			varPair = g.fromJson(reader , VarPair.class);
 
-			List<Coin> changeCoins = changeCoins(varPair.getCoins(), convertPairsToMap,
-					percentage, setLong, setShort, incOffset, decOffset);
+			List<Coin> changeCoins = changeCoins(varPair.getCoins(), convertPairsToMap, percentage, incOffset, decOffset);
 
 			varPair.setCoins(changeCoins);
 
@@ -98,8 +91,7 @@ public class DemoApplication {
 
 
 	private static List<Coin> changeCoins(List<Coin> coins, Map<String, Pair> convertPairsToMap,
-										  String percentage, String setLong, String setShort,
-										  String incOffset, String decOffset) {
+										  String percentage, String incOffset, String decOffset) {
 
 		return coins.stream().map( coin -> {
 			Pair pair = convertPairsToMap.get(coin.getSymbol());
@@ -111,8 +103,8 @@ public class DemoApplication {
 						+ ")" + " -> new LickValue with increment percentage of " + percentage + "% -> (" + lickValue + ")");
 				return new Coin(
 						coin.getSymbol(),
-						setOffset(coin.getLongoffset(), setLong, incOffset, decOffset),
-						setOffset(coin.getShortoffset(), setShort, incOffset, decOffset ),
+						setOffset(coin.getLongoffset(), incOffset, decOffset),
+						setOffset(coin.getShortoffset(), incOffset, decOffset ),
 						lickValue,
 						coin.getVar_enabled(),
 						coin.getVar_staticList(),
@@ -126,15 +118,10 @@ public class DemoApplication {
 		}).collect(Collectors.toList());
 	}
 
-	private static String setOffset(final String valueOld, final String valueNew,
-										final String incOffset, final String decOffset) {
+	private static String setOffset(final String valueOld, final String incOffset, final String decOffset) {
 
 		if (incOffset.equals("0") && decOffset.equals("0")) {
-			if (valueNew.equals(0)){
-				return valueOld;
-			}else{
-				return valueNew;
-			}
+			return valueOld;
 		} else {
 			if (incOffset.equals("0")) {
 				return String.valueOf(Long.valueOf(valueOld) - Long.valueOf(decOffset));

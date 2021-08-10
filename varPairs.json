@@ -13,9 +13,9 @@
   "lhpcKey" : "ALPHA",
   "coins" : [ {
     "symbol" : "1000SHIB",
-    "longoffset" : "11",
-    "shortoffset" : "11",
-    "lickvalue" : "2396",
+    "longoffset" : "12",
+    "shortoffset" : "12",
+    "lickvalue" : "2106",
     "var_enabled" : false,
     "var_staticList" : false,
     "var_whiteList" : true,
@@ -24,9 +24,9 @@
     "tmp_color" : "Gray"
   }, {
     "symbol" : "1INCH",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1501",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "1767",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -35,9 +35,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "AAVE",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "7120",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "4839",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -46,9 +46,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ADA",
-    "longoffset" : "7",
-    "shortoffset" : "7",
-    "lickvalue" : "4646",
+    "longoffset" : "8",
+    "shortoffset" : "8",
+    "lickvalue" : "4420",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -57,9 +57,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "AKRO",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1328",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "2574",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -68,9 +68,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ALGO",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1248",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "1495",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -79,9 +79,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ALICE",
-    "longoffset" : "13",
-    "shortoffset" : "13",
-    "lickvalue" : "2479",
+    "longoffset" : "14",
+    "shortoffset" : "14",
+    "lickvalue" : "2482",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -90,9 +90,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ALPHA",
-    "longoffset" : "11",
-    "shortoffset" : "11",
-    "lickvalue" : "1828",
+    "longoffset" : "12",
+    "shortoffset" : "12",
+    "lickvalue" : "2090",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -101,9 +101,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ANKR",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1629",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "1601",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -112,9 +112,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ATOM",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1485",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "1650",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -123,9 +123,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "AVAX",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1660",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "2046",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -134,9 +134,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "AXS",
-    "longoffset" : "14",
-    "shortoffset" : "14",
-    "lickvalue" : "5417",
+    "longoffset" : "15",
+    "shortoffset" : "15",
+    "lickvalue" : "5715",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -145,9 +145,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "BAKE",
-    "longoffset" : "11",
-    "shortoffset" : "11",
-    "lickvalue" : "2456",
+    "longoffset" : "12",
+    "shortoffset" : "12",
+    "lickvalue" : "2291",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -156,9 +156,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "BAL",
-    "longoffset" : "7",
-    "shortoffset" : "7",
-    "lickvalue" : "1606",
+    "longoffset" : "8",
+    "shortoffset" : "8",
+    "lickvalue" : "1756",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -167,9 +167,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "BAND",
-    "longoffset" : "7",
-    "shortoffset" : "7",
-    "lickvalue" : "2566",
+    "longoffset" : "8",
+    "shortoffset" : "8",
+    "lickvalue" : "1362",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -178,9 +178,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "BAT",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1405",
+    "longoffset" : "10",
+    "shortoffset" : "10",
+    "lickvalue" : "1431",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -189,9 +189,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "BCH",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "3865",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "4571",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -200,9 +200,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "BEL",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "2279",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "2083",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -211,9 +211,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "BLZ",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1835",
+    "longoffset" : "10",
+    "shortoffset" : "10",
+    "lickvalue" : "1866",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -222,9 +222,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "BNB",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "3532",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "4441",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -233,9 +233,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "BTC",
-    "longoffset" : "6",
-    "shortoffset" : "6",
-    "lickvalue" : "27452",
+    "longoffset" : "7",
+    "shortoffset" : "7",
+    "lickvalue" : "27896",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -244,9 +244,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "BTCDOM",
-    "longoffset" : "3",
-    "shortoffset" : "3",
-    "lickvalue" : "1895",
+    "longoffset" : "4",
+    "shortoffset" : "4",
+    "lickvalue" : "303",
     "var_enabled" : false,
     "var_staticList" : false,
     "var_whiteList" : false,
@@ -255,9 +255,9 @@
     "tmp_color" : "Gray"
   }, {
     "symbol" : "BTS",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1214",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "1286",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -266,9 +266,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "BTT",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "2438",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "2327",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -277,9 +277,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "BZRX",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1822",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "1534",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -288,9 +288,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "CELR",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "2302",
+    "longoffset" : "11",
+    "shortoffset" : "11",
+    "lickvalue" : "2412",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -299,9 +299,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "CHR",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "2283",
+    "longoffset" : "11",
+    "shortoffset" : "11",
+    "lickvalue" : "2086",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -310,9 +310,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "CHZ",
-    "longoffset" : "17",
-    "shortoffset" : "17",
-    "lickvalue" : "2142",
+    "longoffset" : "18",
+    "shortoffset" : "18",
+    "lickvalue" : "2068",
     "var_enabled" : false,
     "var_staticList" : false,
     "var_whiteList" : false,
@@ -321,9 +321,9 @@
     "tmp_color" : "Gray"
   }, {
     "symbol" : "COMP",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1490",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "1139",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -332,9 +332,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "COTI",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1382",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "1801",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -343,9 +343,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "CRV",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "2547",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "2578",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -354,9 +354,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "CTK",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1705",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "2438",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -365,9 +365,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "CVC",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1436",
+    "longoffset" : "10",
+    "shortoffset" : "10",
+    "lickvalue" : "1347",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -376,9 +376,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "DASH",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1213",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "1533",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -387,9 +387,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "DEFI",
-    "longoffset" : "7",
-    "shortoffset" : "7",
-    "lickvalue" : "2484",
+    "longoffset" : "8",
+    "shortoffset" : "8",
+    "lickvalue" : "1863",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -398,9 +398,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "DENT",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "2093",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "2216",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -409,9 +409,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "DGB",
-    "longoffset" : "13",
-    "shortoffset" : "13",
-    "lickvalue" : "2426",
+    "longoffset" : "14",
+    "shortoffset" : "14",
+    "lickvalue" : "1356",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -420,9 +420,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "DODO",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "2239",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "2647",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -431,9 +431,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "DOGE",
-    "longoffset" : "14",
-    "shortoffset" : "14",
-    "lickvalue" : "4860",
+    "longoffset" : "15",
+    "shortoffset" : "15",
+    "lickvalue" : "4211",
     "var_enabled" : false,
     "var_staticList" : false,
     "var_whiteList" : false,
@@ -442,9 +442,9 @@
     "tmp_color" : "Gray"
   }, {
     "symbol" : "DOT",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "3850",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "4970",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -453,9 +453,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "EGLD",
-    "longoffset" : "11",
-    "shortoffset" : "11",
-    "lickvalue" : "2757",
+    "longoffset" : "12",
+    "shortoffset" : "12",
+    "lickvalue" : "1572",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -464,9 +464,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ENJ",
-    "longoffset" : "11",
-    "shortoffset" : "11",
-    "lickvalue" : "1974",
+    "longoffset" : "12",
+    "shortoffset" : "12",
+    "lickvalue" : "1708",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -475,9 +475,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "EOS",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "5068",
+    "longoffset" : "11",
+    "shortoffset" : "11",
+    "lickvalue" : "5004",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -486,9 +486,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ETC",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "5489",
+    "longoffset" : "11",
+    "shortoffset" : "11",
+    "lickvalue" : "5132",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -497,9 +497,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ETH",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "9366",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "10359",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -508,9 +508,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "FIL",
-    "longoffset" : "7",
-    "shortoffset" : "7",
-    "lickvalue" : "6439",
+    "longoffset" : "8",
+    "shortoffset" : "8",
+    "lickvalue" : "6578",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -519,9 +519,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "FLM",
-    "longoffset" : "7",
-    "shortoffset" : "7",
-    "lickvalue" : "2224",
+    "longoffset" : "8",
+    "shortoffset" : "8",
+    "lickvalue" : "1524",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -530,31 +530,31 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "FTM",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1253",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "GRT",
-    "longoffset" : "12",
-    "shortoffset" : "12",
-    "lickvalue" : "2193",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "GRT",
     "longoffset" : "9",
     "shortoffset" : "9",
-    "lickvalue" : "2193",
+    "lickvalue" : "1495",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "GRT",
+    "longoffset" : "13",
+    "shortoffset" : "13",
+    "lickvalue" : "1796",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "GRT",
+    "longoffset" : "10",
+    "shortoffset" : "10",
+    "lickvalue" : "1796",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -563,9 +563,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "GTC",
-    "longoffset" : "3",
-    "shortoffset" : "3",
-    "lickvalue" : "2151",
+    "longoffset" : "4",
+    "shortoffset" : "4",
+    "lickvalue" : "2577",
     "var_enabled" : false,
     "var_staticList" : false,
     "var_whiteList" : false,
@@ -574,9 +574,9 @@
     "tmp_color" : "Gray"
   }, {
     "symbol" : "HBAR",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "2611",
+    "longoffset" : "11",
+    "shortoffset" : "11",
+    "lickvalue" : "1857",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -585,9 +585,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "HNT",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1707",
+    "longoffset" : "10",
+    "shortoffset" : "10",
+    "lickvalue" : "2491",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -596,9 +596,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "HOT",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "2201",
+    "longoffset" : "10",
+    "shortoffset" : "10",
+    "lickvalue" : "2212",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -607,9 +607,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ICP",
-    "longoffset" : "11",
-    "shortoffset" : "11",
-    "lickvalue" : "3154",
+    "longoffset" : "12",
+    "shortoffset" : "12",
+    "lickvalue" : "3058",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -618,9 +618,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ICX",
-    "longoffset" : "7",
-    "shortoffset" : "7",
-    "lickvalue" : "1651",
+    "longoffset" : "8",
+    "shortoffset" : "8",
+    "lickvalue" : "2353",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -629,9 +629,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "IOST",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1872",
+    "longoffset" : "10",
+    "shortoffset" : "10",
+    "lickvalue" : "1179",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -640,9 +640,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "IOTA",
-    "longoffset" : "7",
-    "shortoffset" : "7",
-    "lickvalue" : "2240",
+    "longoffset" : "8",
+    "shortoffset" : "8",
+    "lickvalue" : "1982",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -651,9 +651,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "KAVA",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "2364",
+    "longoffset" : "11",
+    "shortoffset" : "11",
+    "lickvalue" : "2069",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -662,9 +662,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "KEEP",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "2477",
+    "longoffset" : "11",
+    "shortoffset" : "11",
+    "lickvalue" : "2245",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -673,9 +673,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "KNC",
-    "longoffset" : "7",
-    "shortoffset" : "7",
-    "lickvalue" : "3466",
+    "longoffset" : "8",
+    "shortoffset" : "8",
+    "lickvalue" : "2488",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -684,226 +684,6 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "KSM",
-    "longoffset" : "7",
-    "shortoffset" : "7",
-    "lickvalue" : "2288",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "LINA",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "2342",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : null,
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "LINK",
-    "longoffset" : "7",
-    "shortoffset" : "7",
-    "lickvalue" : "4259",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "LIT",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "2679",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "LRC",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1112",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "LTC",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "3487",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "LUNA",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "2320",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "MANA",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "2348",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "MATIC",
-    "longoffset" : "11",
-    "shortoffset" : "11",
-    "lickvalue" : "4238",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "MKR",
-    "longoffset" : "7",
-    "shortoffset" : "7",
-    "lickvalue" : "1578",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "MTL",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "2136",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "NEAR",
-    "longoffset" : "7",
-    "shortoffset" : "7",
-    "lickvalue" : "2157",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "NEO",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "2078",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "NKN",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1556",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "OCEAN",
-    "longoffset" : "7",
-    "shortoffset" : "7",
-    "lickvalue" : "1560",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "OGN",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "2215",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "OMG",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1776",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "ONE",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1956",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : null,
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "ONT",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1513",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "QTUM",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "2805",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "REEF",
     "longoffset" : "8",
     "shortoffset" : "8",
     "lickvalue" : "1784",
@@ -914,76 +694,21 @@
     "tmp_kline_age" : "",
     "tmp_color" : "Black"
   }, {
-    "symbol" : "REN",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1668",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "RLC",
-    "longoffset" : "13",
-    "shortoffset" : "13",
-    "lickvalue" : "2022",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "RSR",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "2850",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "RUNE",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "2189",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "RVN",
+    "symbol" : "LINA",
     "longoffset" : "10",
     "shortoffset" : "10",
-    "lickvalue" : "2946",
+    "lickvalue" : "1822",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
     "var_blackList" : false,
-    "tmp_kline_age" : "",
+    "tmp_kline_age" : null,
     "tmp_color" : "Black"
   }, {
-    "symbol" : "SAND",
-    "longoffset" : "13",
-    "shortoffset" : "13",
-    "lickvalue" : "1615",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "SC",
+    "symbol" : "LINK",
     "longoffset" : "8",
     "shortoffset" : "8",
-    "lickvalue" : "1770",
+    "lickvalue" : "4435",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -991,10 +716,43 @@
     "tmp_kline_age" : "",
     "tmp_color" : "Black"
   }, {
-    "symbol" : "SFP",
+    "symbol" : "LIT",
+    "longoffset" : "10",
+    "shortoffset" : "10",
+    "lickvalue" : "2212",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "LRC",
+    "longoffset" : "10",
+    "shortoffset" : "10",
+    "lickvalue" : "1241",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "LTC",
+    "longoffset" : "10",
+    "shortoffset" : "10",
+    "lickvalue" : "4650",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "LUNA",
     "longoffset" : "9",
     "shortoffset" : "9",
-    "lickvalue" : "1367",
+    "lickvalue" : "2409",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1002,43 +760,10 @@
     "tmp_kline_age" : "",
     "tmp_color" : "Black"
   }, {
-    "symbol" : "SKL",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1529",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "SNX",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "2085",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "SOL",
-    "longoffset" : "7",
-    "shortoffset" : "7",
-    "lickvalue" : "3726",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "SRM",
+    "symbol" : "MANA",
     "longoffset" : "9",
     "shortoffset" : "9",
-    "lickvalue" : "1641",
+    "lickvalue" : "2855",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1046,10 +771,21 @@
     "tmp_kline_age" : "",
     "tmp_color" : "Black"
   }, {
-    "symbol" : "STMX",
+    "symbol" : "MATIC",
+    "longoffset" : "12",
+    "shortoffset" : "12",
+    "lickvalue" : "4425",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "MKR",
     "longoffset" : "8",
     "shortoffset" : "8",
-    "lickvalue" : "2289",
+    "lickvalue" : "1004",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1057,109 +793,10 @@
     "tmp_kline_age" : "",
     "tmp_color" : "Black"
   }, {
-    "symbol" : "STORJ",
-    "longoffset" : "13",
-    "shortoffset" : "13",
-    "lickvalue" : "1991",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "SUSHI",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "2392",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "SXP",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "2163",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "THETA",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "5477",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "TLM",
-    "longoffset" : "11",
-    "shortoffset" : "11",
-    "lickvalue" : "2772",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "TOMO",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "2141",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "TRB",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1823",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "TRX",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "2813",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "UNFI",
-    "longoffset" : "13",
-    "shortoffset" : "13",
-    "lickvalue" : "2103",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "UNI",
+    "symbol" : "MTL",
     "longoffset" : "9",
     "shortoffset" : "9",
-    "lickvalue" : "6595",
+    "lickvalue" : "1785",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1167,10 +804,21 @@
     "tmp_kline_age" : "",
     "tmp_color" : "Black"
   }, {
-    "symbol" : "VET",
+    "symbol" : "NEAR",
+    "longoffset" : "8",
+    "shortoffset" : "8",
+    "lickvalue" : "1620",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "NEO",
     "longoffset" : "9",
     "shortoffset" : "9",
-    "lickvalue" : "2185",
+    "lickvalue" : "2143",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1178,10 +826,10 @@
     "tmp_kline_age" : "",
     "tmp_color" : "Black"
   }, {
-    "symbol" : "WAVES",
-    "longoffset" : "7",
-    "shortoffset" : "7",
-    "lickvalue" : "1962",
+    "symbol" : "NKN",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "2702",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1189,10 +837,10 @@
     "tmp_kline_age" : "",
     "tmp_color" : "Black"
   }, {
-    "symbol" : "XEM",
+    "symbol" : "OCEAN",
     "longoffset" : "8",
     "shortoffset" : "8",
-    "lickvalue" : "1331",
+    "lickvalue" : "1527",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1200,10 +848,10 @@
     "tmp_kline_age" : "",
     "tmp_color" : "Black"
   }, {
-    "symbol" : "XLM",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "3270",
+    "symbol" : "OGN",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "1629",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1211,75 +859,9 @@
     "tmp_kline_age" : "",
     "tmp_color" : "Black"
   }, {
-    "symbol" : "XMR",
-    "longoffset" : "7",
-    "shortoffset" : "7",
-    "lickvalue" : "1705",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "XRP",
-    "longoffset" : "15",
-    "shortoffset" : "15",
-    "lickvalue" : "4703",
-    "var_enabled" : false,
-    "var_staticList" : false,
-    "var_whiteList" : false,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Gray"
-  }, {
-    "symbol" : "XTZ",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "4778",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "YFI",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "2601",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "YFII",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "2826",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "ZEC",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "2063",
-    "var_enabled" : true,
-    "var_staticList" : true,
-    "var_whiteList" : true,
-    "var_blackList" : false,
-    "tmp_kline_age" : "",
-    "tmp_color" : "Black"
-  }, {
-    "symbol" : "ZEN",
-    "longoffset" : "8",
-    "shortoffset" : "8",
+    "symbol" : "OMG",
+    "longoffset" : "9",
+    "shortoffset" : "9",
     "lickvalue" : "2149",
     "var_enabled" : true,
     "var_staticList" : true,
@@ -1288,10 +870,428 @@
     "tmp_kline_age" : "",
     "tmp_color" : "Black"
   }, {
-    "symbol" : "ZIL",
+    "symbol" : "ONE",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "1614",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : null,
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "ONT",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "1667",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "QTUM",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "2249",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "REEF",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "1644",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "REN",
+    "longoffset" : "10",
+    "shortoffset" : "10",
+    "lickvalue" : "933",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "RLC",
+    "longoffset" : "14",
+    "shortoffset" : "14",
+    "lickvalue" : "1833",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "RSR",
+    "longoffset" : "10",
+    "shortoffset" : "10",
+    "lickvalue" : "2222",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "RUNE",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "2418",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "RVN",
+    "longoffset" : "11",
+    "shortoffset" : "11",
+    "lickvalue" : "2242",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "SAND",
+    "longoffset" : "14",
+    "shortoffset" : "14",
+    "lickvalue" : "2106",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "SC",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "1659",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "SFP",
+    "longoffset" : "10",
+    "shortoffset" : "10",
+    "lickvalue" : "2217",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "SKL",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "1345",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "SNX",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "1797",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "SOL",
     "longoffset" : "8",
     "shortoffset" : "8",
-    "lickvalue" : "1400",
+    "lickvalue" : "4627",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "SRM",
+    "longoffset" : "10",
+    "shortoffset" : "10",
+    "lickvalue" : "1839",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "STMX",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "1536",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "STORJ",
+    "longoffset" : "14",
+    "shortoffset" : "14",
+    "lickvalue" : "2545",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "SUSHI",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "1749",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "SXP",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "2304",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "THETA",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "3692",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "TLM",
+    "longoffset" : "12",
+    "shortoffset" : "12",
+    "lickvalue" : "2344",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "TOMO",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "1480",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "TRB",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "1808",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "TRX",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "2080",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "UNFI",
+    "longoffset" : "14",
+    "shortoffset" : "14",
+    "lickvalue" : "1902",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "UNI",
+    "longoffset" : "10",
+    "shortoffset" : "10",
+    "lickvalue" : "3546",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "VET",
+    "longoffset" : "10",
+    "shortoffset" : "10",
+    "lickvalue" : "1829",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "WAVES",
+    "longoffset" : "8",
+    "shortoffset" : "8",
+    "lickvalue" : "1547",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "XEM",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "1691",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "XLM",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "2951",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "XMR",
+    "longoffset" : "8",
+    "shortoffset" : "8",
+    "lickvalue" : "2154",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "XRP",
+    "longoffset" : "16",
+    "shortoffset" : "16",
+    "lickvalue" : "4091",
+    "var_enabled" : false,
+    "var_staticList" : false,
+    "var_whiteList" : false,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Gray"
+  }, {
+    "symbol" : "XTZ",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "4466",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "YFI",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "3217",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "YFII",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "2443",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "ZEC",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "2818",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "ZEN",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "3328",
+    "var_enabled" : true,
+    "var_staticList" : true,
+    "var_whiteList" : true,
+    "var_blackList" : false,
+    "tmp_kline_age" : "",
+    "tmp_color" : "Black"
+  }, {
+    "symbol" : "ZIL",
+    "longoffset" : "9",
+    "shortoffset" : "9",
+    "lickvalue" : "1569",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1300,9 +1300,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ZRX",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "2143",
+    "longoffset" : "10",
+    "shortoffset" : "10",
+    "lickvalue" : "2352",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
