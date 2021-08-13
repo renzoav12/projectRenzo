@@ -13,9 +13,9 @@
   "lhpcKey" : "ALPHA",
   "coins" : [ {
     "symbol" : "1000SHIB",
-    "longoffset" : "12",
-    "shortoffset" : "12",
-    "lickvalue" : "2106",
+    "longoffset" : "12.0",
+    "shortoffset" : "12.0",
+    "lickvalue" : "2063",
     "var_enabled" : false,
     "var_staticList" : false,
     "var_whiteList" : true,
@@ -24,9 +24,9 @@
     "tmp_color" : "Gray"
   }, {
     "symbol" : "1INCH",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1767",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "2082",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -35,9 +35,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "AAVE",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "4839",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "8952",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -46,9 +46,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ADA",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "4420",
+    "longoffset" : "8.0",
+    "shortoffset" : "8.0",
+    "lickvalue" : "4931",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -57,9 +57,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "AKRO",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "2574",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "1406",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -68,9 +68,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ALGO",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1495",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "1633",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -79,9 +79,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ALICE",
-    "longoffset" : "14",
-    "shortoffset" : "14",
-    "lickvalue" : "2482",
+    "longoffset" : "14.0",
+    "shortoffset" : "14.0",
+    "lickvalue" : "1696",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -90,9 +90,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ALPHA",
-    "longoffset" : "12",
-    "shortoffset" : "12",
-    "lickvalue" : "2090",
+    "longoffset" : "12.0",
+    "shortoffset" : "12.0",
+    "lickvalue" : "1910",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -101,9 +101,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ANKR",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1601",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "1261",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -112,9 +112,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ATOM",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1650",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "2173",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -123,9 +123,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "AVAX",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "2046",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "1902",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -134,9 +134,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "AXS",
-    "longoffset" : "15",
-    "shortoffset" : "15",
-    "lickvalue" : "5715",
+    "longoffset" : "15.0",
+    "shortoffset" : "15.0",
+    "lickvalue" : "12229",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -145,9 +145,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "BAKE",
-    "longoffset" : "12",
-    "shortoffset" : "12",
-    "lickvalue" : "2291",
+    "longoffset" : "12.0",
+    "shortoffset" : "12.0",
+    "lickvalue" : "2462",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -156,9 +156,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "BAL",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1756",
+    "longoffset" : "8.0",
+    "shortoffset" : "8.0",
+    "lickvalue" : "2459",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -167,9 +167,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "BAND",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1362",
+    "longoffset" : "8.0",
+    "shortoffset" : "8.0",
+    "lickvalue" : "1273",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -178,9 +178,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "BAT",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "1431",
+    "longoffset" : "10.0",
+    "shortoffset" : "10.0",
+    "lickvalue" : "1631",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -189,9 +189,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "BCH",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "4571",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "3206",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -200,9 +200,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "BEL",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "2083",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "2019",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -211,9 +211,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "BLZ",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "1866",
+    "longoffset" : "10.0",
+    "shortoffset" : "10.0",
+    "lickvalue" : "2239",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -222,9 +222,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "BNB",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "4441",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "4131",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -233,9 +233,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "BTC",
-    "longoffset" : "7",
-    "shortoffset" : "7",
-    "lickvalue" : "27896",
+    "longoffset" : "7.0",
+    "shortoffset" : "7.0",
+    "lickvalue" : "32145",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -244,9 +244,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "BTCDOM",
-    "longoffset" : "4",
-    "shortoffset" : "4",
-    "lickvalue" : "303",
+    "longoffset" : "4.0",
+    "shortoffset" : "4.0",
+    "lickvalue" : "812",
     "var_enabled" : false,
     "var_staticList" : false,
     "var_whiteList" : false,
@@ -255,9 +255,9 @@
     "tmp_color" : "Gray"
   }, {
     "symbol" : "BTS",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1286",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "1435",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -266,9 +266,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "BTT",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "2327",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "3316",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -277,9 +277,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "BZRX",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1534",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "3014",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -288,9 +288,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "CELR",
-    "longoffset" : "11",
-    "shortoffset" : "11",
-    "lickvalue" : "2412",
+    "longoffset" : "11.0",
+    "shortoffset" : "11.0",
+    "lickvalue" : "2309",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -299,9 +299,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "CHR",
-    "longoffset" : "11",
-    "shortoffset" : "11",
-    "lickvalue" : "2086",
+    "longoffset" : "11.0",
+    "shortoffset" : "11.0",
+    "lickvalue" : "2522",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -310,9 +310,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "CHZ",
-    "longoffset" : "18",
-    "shortoffset" : "18",
-    "lickvalue" : "2068",
+    "longoffset" : "18.0",
+    "shortoffset" : "18.0",
+    "lickvalue" : "2211",
     "var_enabled" : false,
     "var_staticList" : false,
     "var_whiteList" : false,
@@ -321,9 +321,9 @@
     "tmp_color" : "Gray"
   }, {
     "symbol" : "COMP",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1139",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "2019",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -332,9 +332,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "COTI",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1801",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "2227",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -343,9 +343,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "CRV",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "2578",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "2031",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -354,8 +354,8 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "CTK",
-    "longoffset" : "9",
-    "shortoffset" : "9",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
     "lickvalue" : "2438",
     "var_enabled" : true,
     "var_staticList" : true,
@@ -365,9 +365,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "CVC",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "1347",
+    "longoffset" : "10.0",
+    "shortoffset" : "10.0",
+    "lickvalue" : "2009",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -376,9 +376,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "DASH",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1533",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "1457",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -387,9 +387,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "DEFI",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1863",
+    "longoffset" : "8.0",
+    "shortoffset" : "8.0",
+    "lickvalue" : "2070",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -398,9 +398,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "DENT",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "2216",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "2532",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -409,9 +409,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "DGB",
-    "longoffset" : "14",
-    "shortoffset" : "14",
-    "lickvalue" : "1356",
+    "longoffset" : "14.0",
+    "shortoffset" : "14.0",
+    "lickvalue" : "1320",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -420,9 +420,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "DODO",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "2647",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "3267",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -431,9 +431,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "DOGE",
-    "longoffset" : "15",
-    "shortoffset" : "15",
-    "lickvalue" : "4211",
+    "longoffset" : "15.0",
+    "shortoffset" : "15.0",
+    "lickvalue" : "4797",
     "var_enabled" : false,
     "var_staticList" : false,
     "var_whiteList" : false,
@@ -442,9 +442,9 @@
     "tmp_color" : "Gray"
   }, {
     "symbol" : "DOT",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "4970",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "6324",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -453,9 +453,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "EGLD",
-    "longoffset" : "12",
-    "shortoffset" : "12",
-    "lickvalue" : "1572",
+    "longoffset" : "12.0",
+    "shortoffset" : "12.0",
+    "lickvalue" : "2772",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -464,9 +464,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ENJ",
-    "longoffset" : "12",
-    "shortoffset" : "12",
-    "lickvalue" : "1708",
+    "longoffset" : "12.0",
+    "shortoffset" : "12.0",
+    "lickvalue" : "2628",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -475,9 +475,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "EOS",
-    "longoffset" : "11",
-    "shortoffset" : "11",
-    "lickvalue" : "5004",
+    "longoffset" : "11.0",
+    "shortoffset" : "11.0",
+    "lickvalue" : "9700",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -486,9 +486,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ETC",
-    "longoffset" : "11",
-    "shortoffset" : "11",
-    "lickvalue" : "5132",
+    "longoffset" : "11.0",
+    "shortoffset" : "11.0",
+    "lickvalue" : "7030",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -497,9 +497,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ETH",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "10359",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "12911",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -508,9 +508,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "FIL",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "6578",
+    "longoffset" : "8.0",
+    "shortoffset" : "8.0",
+    "lickvalue" : "9971",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -519,9 +519,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "FLM",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1524",
+    "longoffset" : "8.0",
+    "shortoffset" : "8.0",
+    "lickvalue" : "2566",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -530,9 +530,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "FTM",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1495",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "1627",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -541,9 +541,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "GRT",
-    "longoffset" : "13",
-    "shortoffset" : "13",
-    "lickvalue" : "1796",
+    "longoffset" : "13.0",
+    "shortoffset" : "13.0",
+    "lickvalue" : "2183",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -552,9 +552,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "GRT",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "1796",
+    "longoffset" : "10.0",
+    "shortoffset" : "10.0",
+    "lickvalue" : "2183",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -563,9 +563,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "GTC",
-    "longoffset" : "4",
-    "shortoffset" : "4",
-    "lickvalue" : "2577",
+    "longoffset" : "4.0",
+    "shortoffset" : "4.0",
+    "lickvalue" : "1853",
     "var_enabled" : false,
     "var_staticList" : false,
     "var_whiteList" : false,
@@ -574,9 +574,9 @@
     "tmp_color" : "Gray"
   }, {
     "symbol" : "HBAR",
-    "longoffset" : "11",
-    "shortoffset" : "11",
-    "lickvalue" : "1857",
+    "longoffset" : "11.0",
+    "shortoffset" : "11.0",
+    "lickvalue" : "1582",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -585,9 +585,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "HNT",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "2491",
+    "longoffset" : "10.0",
+    "shortoffset" : "10.0",
+    "lickvalue" : "1669",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -596,9 +596,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "HOT",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "2212",
+    "longoffset" : "10.0",
+    "shortoffset" : "10.0",
+    "lickvalue" : "2040",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -607,9 +607,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ICP",
-    "longoffset" : "12",
-    "shortoffset" : "12",
-    "lickvalue" : "3058",
+    "longoffset" : "12.0",
+    "shortoffset" : "12.0",
+    "lickvalue" : "3165",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -618,9 +618,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ICX",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "2353",
+    "longoffset" : "8.0",
+    "shortoffset" : "8.0",
+    "lickvalue" : "2495",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -629,9 +629,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "IOST",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "1179",
+    "longoffset" : "10.0",
+    "shortoffset" : "10.0",
+    "lickvalue" : "1867",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -640,9 +640,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "IOTA",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1982",
+    "longoffset" : "8.0",
+    "shortoffset" : "8.0",
+    "lickvalue" : "3341",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -651,9 +651,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "KAVA",
-    "longoffset" : "11",
-    "shortoffset" : "11",
-    "lickvalue" : "2069",
+    "longoffset" : "11.0",
+    "shortoffset" : "11.0",
+    "lickvalue" : "1947",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -662,9 +662,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "KEEP",
-    "longoffset" : "11",
-    "shortoffset" : "11",
-    "lickvalue" : "2245",
+    "longoffset" : "11.0",
+    "shortoffset" : "11.0",
+    "lickvalue" : "2995",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -673,9 +673,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "KNC",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "2488",
+    "longoffset" : "8.0",
+    "shortoffset" : "8.0",
+    "lickvalue" : "2938",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -684,9 +684,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "KSM",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1784",
+    "longoffset" : "8.0",
+    "shortoffset" : "8.0",
+    "lickvalue" : "2029",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -695,9 +695,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "LINA",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "1822",
+    "longoffset" : "10.0",
+    "shortoffset" : "10.0",
+    "lickvalue" : "1921",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -706,9 +706,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "LINK",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "4435",
+    "longoffset" : "8.0",
+    "shortoffset" : "8.0",
+    "lickvalue" : "4667",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -717,9 +717,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "LIT",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "2212",
+    "longoffset" : "10.0",
+    "shortoffset" : "10.0",
+    "lickvalue" : "2148",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -728,9 +728,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "LRC",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "1241",
+    "longoffset" : "10.0",
+    "shortoffset" : "10.0",
+    "lickvalue" : "1107",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -739,9 +739,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "LTC",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "4650",
+    "longoffset" : "10.0",
+    "shortoffset" : "10.0",
+    "lickvalue" : "4603",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -750,9 +750,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "LUNA",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "2409",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "2432",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -761,9 +761,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "MANA",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "2855",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "2965",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -772,9 +772,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "MATIC",
-    "longoffset" : "12",
-    "shortoffset" : "12",
-    "lickvalue" : "4425",
+    "longoffset" : "12.0",
+    "shortoffset" : "12.0",
+    "lickvalue" : "4095",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -783,9 +783,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "MKR",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1004",
+    "longoffset" : "8.0",
+    "shortoffset" : "8.0",
+    "lickvalue" : "1284",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -794,9 +794,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "MTL",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1785",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "2082",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -805,9 +805,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "NEAR",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1620",
+    "longoffset" : "8.0",
+    "shortoffset" : "8.0",
+    "lickvalue" : "1994",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -816,9 +816,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "NEO",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "2143",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "2546",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -827,9 +827,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "NKN",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "2702",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "2317",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -838,9 +838,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "OCEAN",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1527",
+    "longoffset" : "8.0",
+    "shortoffset" : "8.0",
+    "lickvalue" : "1776",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -849,9 +849,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "OGN",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1629",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "2388",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -860,9 +860,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "OMG",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "2149",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "1877",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -871,9 +871,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ONE",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1614",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "3284",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -882,9 +882,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ONT",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1667",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "2034",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -893,9 +893,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "QTUM",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "2249",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "2622",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -904,9 +904,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "REEF",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1644",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "2373",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -915,9 +915,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "REN",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "933",
+    "longoffset" : "10.0",
+    "shortoffset" : "10.0",
+    "lickvalue" : "1057",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -926,9 +926,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "RLC",
-    "longoffset" : "14",
-    "shortoffset" : "14",
-    "lickvalue" : "1833",
+    "longoffset" : "14.0",
+    "shortoffset" : "14.0",
+    "lickvalue" : "1724",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -937,9 +937,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "RSR",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "2222",
+    "longoffset" : "10.0",
+    "shortoffset" : "10.0",
+    "lickvalue" : "1662",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -948,9 +948,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "RUNE",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "2418",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "2424",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -959,9 +959,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "RVN",
-    "longoffset" : "11",
-    "shortoffset" : "11",
-    "lickvalue" : "2242",
+    "longoffset" : "11.0",
+    "shortoffset" : "11.0",
+    "lickvalue" : "2206",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -970,9 +970,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "SAND",
-    "longoffset" : "14",
-    "shortoffset" : "14",
-    "lickvalue" : "2106",
+    "longoffset" : "14.0",
+    "shortoffset" : "14.0",
+    "lickvalue" : "1326",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -981,9 +981,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "SC",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1659",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "1382",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -992,9 +992,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "SFP",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "2217",
+    "longoffset" : "10.0",
+    "shortoffset" : "10.0",
+    "lickvalue" : "2371",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1003,9 +1003,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "SKL",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1345",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "3788",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1014,9 +1014,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "SNX",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1797",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "2060",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1025,9 +1025,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "SOL",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "4627",
+    "longoffset" : "8.0",
+    "shortoffset" : "8.0",
+    "lickvalue" : "4853",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1036,9 +1036,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "SRM",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "1839",
+    "longoffset" : "10.0",
+    "shortoffset" : "10.0",
+    "lickvalue" : "2586",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1047,9 +1047,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "STMX",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1536",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "1679",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1058,9 +1058,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "STORJ",
-    "longoffset" : "14",
-    "shortoffset" : "14",
-    "lickvalue" : "2545",
+    "longoffset" : "14.0",
+    "shortoffset" : "14.0",
+    "lickvalue" : "1321",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1069,9 +1069,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "SUSHI",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1749",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "2675",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1080,9 +1080,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "SXP",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "2304",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "2103",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1091,9 +1091,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "THETA",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "3692",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "3819",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1102,9 +1102,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "TLM",
-    "longoffset" : "12",
-    "shortoffset" : "12",
-    "lickvalue" : "2344",
+    "longoffset" : "12.0",
+    "shortoffset" : "12.0",
+    "lickvalue" : "2325",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1113,9 +1113,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "TOMO",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1480",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "1736",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1124,9 +1124,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "TRB",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1808",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "3308",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1135,9 +1135,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "TRX",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "2080",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "2946",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1146,9 +1146,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "UNFI",
-    "longoffset" : "14",
-    "shortoffset" : "14",
-    "lickvalue" : "1902",
+    "longoffset" : "14.0",
+    "shortoffset" : "14.0",
+    "lickvalue" : "2244",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1157,9 +1157,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "UNI",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "3546",
+    "longoffset" : "10.0",
+    "shortoffset" : "10.0",
+    "lickvalue" : "4433",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1168,9 +1168,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "VET",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "1829",
+    "longoffset" : "10.0",
+    "shortoffset" : "10.0",
+    "lickvalue" : "2535",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1179,9 +1179,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "WAVES",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "1547",
+    "longoffset" : "8.0",
+    "shortoffset" : "8.0",
+    "lickvalue" : "2084",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1190,9 +1190,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "XEM",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1691",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "2127",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1201,9 +1201,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "XLM",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "2951",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "6142",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1212,9 +1212,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "XMR",
-    "longoffset" : "8",
-    "shortoffset" : "8",
-    "lickvalue" : "2154",
+    "longoffset" : "8.0",
+    "shortoffset" : "8.0",
+    "lickvalue" : "7296",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1223,9 +1223,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "XRP",
-    "longoffset" : "16",
-    "shortoffset" : "16",
-    "lickvalue" : "4091",
+    "longoffset" : "16.0",
+    "shortoffset" : "16.0",
+    "lickvalue" : "4705",
     "var_enabled" : false,
     "var_staticList" : false,
     "var_whiteList" : false,
@@ -1234,9 +1234,9 @@
     "tmp_color" : "Gray"
   }, {
     "symbol" : "XTZ",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "4466",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "4787",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1245,9 +1245,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "YFI",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "3217",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "2546",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1256,9 +1256,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "YFII",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "2443",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "1809",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1267,9 +1267,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ZEC",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "2818",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "3839",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1278,9 +1278,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ZEN",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "3328",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "4508",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1289,9 +1289,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ZIL",
-    "longoffset" : "9",
-    "shortoffset" : "9",
-    "lickvalue" : "1569",
+    "longoffset" : "9.0",
+    "shortoffset" : "9.0",
+    "lickvalue" : "1705",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,
@@ -1300,9 +1300,9 @@
     "tmp_color" : "Black"
   }, {
     "symbol" : "ZRX",
-    "longoffset" : "10",
-    "shortoffset" : "10",
-    "lickvalue" : "2352",
+    "longoffset" : "10.0",
+    "shortoffset" : "10.0",
+    "lickvalue" : "2381",
     "var_enabled" : true,
     "var_staticList" : true,
     "var_whiteList" : true,

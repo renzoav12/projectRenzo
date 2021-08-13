@@ -12,6 +12,7 @@ import org.springframework.web.client.RestTemplate;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.*;
+import java.math.BigDecimal;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
@@ -34,7 +35,10 @@ public class DemoApplication {
 
 		System.out.println("========================================");
 		System.out.println(" Updating LickValue Pairs more percentage plus : " + percentage + "%");
-		System.out.println("Increment or Decrement value: inc ->" + incOffset + " dec -> " + decOffset);
+		System.out.println("========================================");
+		System.out.println("Increment or Decrement value: " +
+				"inc ->" + incOffset + " dec -> " + decOffset);
+
 		getVarPairJson(percentage, incOffset, decOffset);
 
 		System.out.println("======FINISH PAIRS VALUE UPDATE========");
@@ -124,9 +128,9 @@ public class DemoApplication {
 			return valueOld;
 		} else {
 			if (incOffset.equals("0")) {
-				return String.valueOf(Long.valueOf(valueOld) - Long.valueOf(decOffset));
+				return String.valueOf(new BigDecimal(valueOld).subtract(new BigDecimal(decOffset)));
 			}
-				return String.valueOf(Long.valueOf(valueOld) + Long.valueOf(incOffset));
+			return String.valueOf(new BigDecimal(valueOld).add(new BigDecimal(incOffset)));
 		}
 	}
 }
